@@ -193,8 +193,7 @@
 .elementor-widget:not(:last-child) {
   margin-bottom: 0px;
 }
- {
-}
+
 h1.entry-title {
   display: var(--page-title-display);
 }
